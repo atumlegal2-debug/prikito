@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -65,3 +66,6 @@ Você pode fazer deploy usando Vercel, Netlify, ou qualquer serviço de hospedag
 =======
 # newtinderdsl
 >>>>>>> 4d1709e0fc7d37cc9964c1d5e051aeb222906ee5
+=======
+# prikito
+>>>>>>> 8bde5c7e36c10207d17b0edfd6bbeb9ebdf6edfd
