@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -61,3 +62,6 @@ This project is built with:
 Você pode fazer deploy usando Vercel, Netlify, ou qualquer serviço de hospedagem estática para projetos Vite/React.
 
 <!-- Seção de domínio Lovable removida -->
+=======
+# newtinderdsl
+>>>>>>> 4d1709e0fc7d37cc9964c1d5e051aeb222906ee5
